@@ -1,0 +1,19 @@
+{
+  "name": "@mia-burton/hello-world",
+  "description": "hello-world",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paologf-mb/hello-world.git"
+  },
+  "author": "paologf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paologf-mb/hello-world/issues"
+  },
+  "homepage": "https://github.com/paologf-mb/hello-world#readme"
+}
